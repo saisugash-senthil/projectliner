@@ -1,1 +1,3 @@
 # projectliner
+
+This is a very simple coding language designed for training a linear regression model.This project is still in progress...
